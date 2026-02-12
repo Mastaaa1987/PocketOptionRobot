@@ -6,24 +6,26 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 ## What you Need?
 
 <details>
-<summary>Click HERE for Content.</summary>
+<summary>Click HERE to view.</summary>
 
-### 1. A Telegram Account with a Signal Group/Channel like this:
+### - A Telegram Account with a Signal Group/Channel like this:
 
 ![Telegram](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram.png)
 
-### 2. A PocketOption Account to trade with.
+### - A PocketOption Account to trade with.
 
-### 3. MyBot.exe
+### - MyBot.exe
 
 </details>
 
 ## Installation
 
 <details>
-<summary>Click HERE for Content.</summary>
+<summary>Click HERE to view.</summary>
 
-### Test
+### - Download MyBot.exe here.
+
+### - 
 
 <details>
 <summary>Click HERE for Content.</summary>
