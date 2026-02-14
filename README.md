@@ -88,7 +88,20 @@ Example Real SSID:
 
 ### Last but not least we need the ID of the Channel We want to catch the Signal with the Bot.
 
-## HowTo get SSID from PocketOption?
+(at start you can create quick & simple a Group or Channel to Send your own test Signals into it ...)
+
+## HowTo get Telegram Channel/Group ID & set the right UTC?
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+### Search Telegram User @ScanIDBot and send /start to get the Channel/Group ID.
+
+![Telegram1](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram1.png)
+
+![Telegram2](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram2.png)
+
+</details>
 
 </details>
 
