@@ -34,13 +34,14 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 <details>
 <summary>Click HERE for Content.</summary>
 
-To get the bot running properly, two prerequisites must be met. First, we need a Telegram ID and hash.
+### To get the bot running properly, two prerequisites must be met. First, we need a Telegram ID and hash.
 
 ## HowTo get ID & Hash from Telegram?
 
 <details>
 <summary>Click HERE for Content.</summary>
-For the Telegram ID & Hash we need to get a Developer Account. 
+
+### For the Telegram ID & Hash we need to get a Developer Account. 
 
 - Visit https://my.telegram.org/auth & start Rgistration with your Phone number.
 - In follow the Registration you need to set a Name for your App. You can take what ever you want, Nobody will check that.
@@ -48,7 +49,7 @@ For the Telegram ID & Hash we need to get a Developer Account.
 
 </details>
 
-And Second we need the SSID from the PocketOption platform.
+### And Second we need the SSID from the PocketOption platform.
 
 ## HowTo get SSID from PocketOption?
 
@@ -85,7 +86,9 @@ Example Real SSID:
 
 </details>
 
-Last but not least we need the ID of the Channel We want to catch the Signal with the Bot. You can Search 
+### Last but not least we need the ID of the Channel We want to catch the Signal with the Bot.
+
+## HowTo get SSID from PocketOption?
 
 </details>
 
