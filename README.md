@@ -90,7 +90,7 @@ Example Real SSID:
 
 (at start you can create quick & simple a Group or Channel to Send your own test Signals into it ...)
 
-## HowTo get Telegram Channel/Group ID & set the right UTC?
+## HowTo get Telegram Channel ID?
 
 <details>
 <summary>Click HERE for Content.</summary>
@@ -106,6 +106,13 @@ Example Real SSID:
 ![Telegram4](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram4.png)
 
 </details>
+
+## What is the UTC Setting & HowTo set it?
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+### UTC means the Time different between the Signal and your Host System.
 
 </details>
 
