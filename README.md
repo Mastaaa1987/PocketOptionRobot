@@ -101,6 +101,10 @@ Example Real SSID:
 
 ![Telegram2](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram2.png)
 
+![Telegram3](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram3.png)
+
+![Telegram4](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram4.png)
+
 </details>
 
 </details>
