@@ -114,11 +114,20 @@ Example Real SSID:
 
 ### UTC means the Time different between the Signal and your Host System. 
 
-### Here are 2 Examples how to calculate the UTC Setting:
+Here are 2 Examples how to calculate the UTC Setting:
 
 ![UTC](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/UTC.png)
 
 </details>
+
+</details>
+
+## Setting
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+## Soon ...
 
 </details>
 
