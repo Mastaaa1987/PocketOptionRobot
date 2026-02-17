@@ -129,32 +129,31 @@ Here are 2 Examples how to calculate the UTC Setting:
 
 ### On the left Side (Automatic Mode) are many Settings for the Trades itself.
 
-- min_payout # Value: 0-92 # Is the minimal Payout what the Pair need to Trade in %.
-- pair_multi_trades # Value: ON/OFF # ON: Trade only one Time each Pair. OFF: Trade multi times each Pair.
-- min_win_ratio # Value: 0-100 # Minimal Win ratio from Signal Server.
-- mtg_coefficient # Value: 1.0-..
-- trade_amount # Value: 1.0-..
-- trade_amount_type # Value: $/%
-- trade_mode # Value: DEMO/REAL
-- loglevel # Value: INFO-ERROR
-- period # Value: M1-M5
-- pairs_type # Value: ALL/REAL/OTC 
-- mtg_level # Value: 0-9
-- max_trades           # Value: 0-9
-- anti_mtg             # Value: FALSE/TRUE
-- mtg_typ              # Value: 0/1/2
-- mtg_dynamic          # Value: FALSE/TRUE
-- amount_dynamic       # Value: FALSE/TRUE
-- trade_only_top_pairs # Value: ALL/1-10
-- signal_server        # Value: ANY/..
-- take_profit          # Value: EMPTY/1-..
-- stoploss             # Value: EMPTY/1-..
-- trade_time           # Value: FROM/TO
-- trade_expiration     # Value: AUTO/M1-H1
 
-| Setting           | Input Value | Info                                          |
-| :---------------: | :---------: | :-------------------------------------------: |
-| min_payout        |             |                                               |
-| pair_multi_trades |             |                                               |
+
+| Setting              | Input Value  | Info                                                                 |
+| :-------------|||--: | :----------: | :------------------------------------------------------------------: |
+| min_payout           | 0-92         | Is the minimal Payout what the Pair need to Trade in %.              |
+| pair_multi_trades    | ON/OFF       | ON: Trade only one Time each Pair. OFF: Trade multi times each Pair. |
+| min_win_ratio        | 0-100        | Minimal Win ratio from Signal Server.                                |
+| mtg_coefficient      | 1.0-..       |
+| trade_amount         | 1.0-..       |
+| trade_amount_type    | $/%          |
+| trade_mode           | DEMO/REAL    |
+| loglevel             | INFO-ERROR   |
+| period               | M1-M5        |
+| pairs_type           | ALL/REAL/OTC |
+| mtg_level            | 0-9          |
+| max_trades           | 0-9          |
+| anti_mtg             | FALSE/TRUE   |
+| mtg_typ              | 0/1/2        |
+| mtg_dynamic          | FALSE/TRUE   |
+| amount_dynamic       | FALSE/TRUE   |
+| trade_only_top_pairs | ALL/1-10     |
+| signal_server        | ANY/..       |
+| take_profit          | EMPTY/1-..   |
+| stoploss             | EMPTY/1-..   |
+| trade_time           | FROM/TO      |
+| trade_expiration     | AUTO/M1-H1   |
 </details>
 
