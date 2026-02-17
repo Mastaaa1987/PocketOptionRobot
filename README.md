@@ -132,7 +132,7 @@ Here are 2 Examples how to calculate the UTC Setting:
 
 
 | Setting              | Input Value  | Info                                                                 |
-| :-------------|||--: | :----------: | :------------------------------------------------------------------: |
+| :------------------: | :----------: | :------------------------------------------------------------------: |
 | min_payout           | 0-92         | Is the minimal Payout what the Pair need to Trade in %.              |
 | pair_multi_trades    | ON/OFF       | ON: Trade only one Time each Pair. OFF: Trade multi times each Pair. |
 | min_win_ratio        | 0-100        | Minimal Win ratio from Signal Server.                                |
