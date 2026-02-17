@@ -140,13 +140,13 @@ Here are 2 Examples how to calculate the UTC Setting:
 | trade_amount         | 1.0-..       | Value of Trade Amount. (0 = Disable)
 | trade_amount_type    | $/%          | Value Type of Trade Amount. Percent or Doller.
 | trade_mode           | DEMO/REAL    | Mode to Trade on PocketOption (Demo or Real Account).
-| loglevel             | INFO-ERROR   | The Loglevel
-| period               | M1-M5        | The Period which the Bot look for as Signal (Only 1 Minute Signals or 5)
+| loglevel             | INFO-ERROR   | The Loglevel.
+| period               | M1-M5        | The Period which the Bot look for as Signal (e.g. Only 1 Minute Signals).
 | pairs_type           | ALL/REAL/OTC | Wich Art of Pairs is to Trade (Stock/OTC)
 | mtg_level            | 0-9          | The Count of Rebuy if the trade is loss.
 | max_trades           | 0-9          | Maximal Trade count at same Time.
 | anti_mtg             | FALSE/TRUE   | Invert Trade. e.g. First Call, Second Put, Third Call ...
-| mtg_typ              | 0/1/2        | 0: next_candle_same_pair\n1: next_signal_same_pair\n2: next_signal_any_pair.
+| mtg_typ              | 0/1/2        | 0: next_candle_same_pair, 1: next_signal_same_pair, 2: next_signal_any_pair.
 | mtg_dynamic          | FALSE/TRUE   | TRUE: Calculate MTG on Payout each Pair. 
 | amount_dynamic       | FALSE/TRUE   | TRUE: Use the Amount as take Out, FALSE: User the Amount as put In.
 | trade_only_top_pairs | ALL/1-10     | Trade only Top Pairs from Telegram Ranking.
@@ -154,6 +154,6 @@ Here are 2 Examples how to calculate the UTC Setting:
 | take_profit          | EMPTY/1-..   | How many Profit is to take before the bot going to sleep.
 | stoploss             | EMPTY/1-..   | How many Loss is to take before the bot going to sleep.
 | trade_time           | FROM/TO      | The Time where the Bot can take Trades.
-| trade_expiration     | AUTO/M1-H1   | Trade a specify time period. (e.g. 1 minute, 2 minutes ...)
+| trade_expiration     | AUTO/M1-H1   | Trade a specify time period. (e.g. 1 min, 2 min ...)
 </details>
 
