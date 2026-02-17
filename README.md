@@ -129,28 +129,28 @@ Here are 2 Examples how to calculate the UTC Setting:
 
 ### On the left Side (Automatic Mode) are many Settings for the Trades itself.
 
-- min_payout           # Value: 0-92         # Is the minimal Payout what the Pair need to Trade in %.
-- pair_multi_trades    # Value: ON/OFF       # ON: Trade only one Time each Pair. OFF: Trade multi times each Pair.
-- min_win_ratio        # Value: 0-100        # Minimal Win ratio from Signal Server.
-- mtg_coefficient      # Value: 1.0-..       #
-- trade_amount         # Value: 1.0-..       #
-- trade_amount_type    # Value: $/%          #
-- trade_mode           # Value: DEMO/REAL    #
-- loglevel             # Value: INFO-ERROR   #
-- period               # Value: M1-M5        #
-- pairs_type           # Value: ALL/REAL/OTC #
-- mtg_level            # Value: 0-9
-- max_trades           # Value: 0-9
-- anti_mtg             # Value: FALSE/TRUE
-- mtg_typ              # Value: 0/1/2
-- mtg_dynamic          # Value: FALSE/TRUE
-- amount_dynamic       # Value: FALSE/TRUE
-- trade_only_top_pairs # Value: ALL/1-10
-- signal_server        # Value: ANY/..
-- take_profit          # Value: EMPTY/1-..
-- stoploss             # Value: EMPTY/1-..
-- trade_time           # Value: FROM/TO
-- trade_expiration     # Value: AUTO/M1-H1
+- min_payout-----------# Value: 0-92---------# Is the minimal Payout what the Pair need to Trade in %.
+- pair_multi_trades----# Value: ON/OFF-------# ON: Trade only one Time each Pair. OFF: Trade multi times each Pair.
+- min_win_ratio--------# Value: 0-100--------# Minimal Win ratio from Signal Server.
+- mtg_coefficient------# Value: 1.0-..-------#
+- trade_amount---------# Value: 1.0-..-------#
+- trade_amount_type----# Value: $/%----------#
+- trade_mode-----------# Value: DEMO/REAL----#
+- loglevel-------------# Value: INFO-ERROR---#
+- period---------------# Value: M1-M5--------#
+- pairs_type-----------# Value: ALL/REAL/OTC-#
+- mtg_level------------# Value: 0-9
+- max_trades-----------# Value: 0-9
+- anti_mtg-------------# Value: FALSE/TRUE
+- mtg_typ--------------# Value: 0/1/2
+- mtg_dynamic----------# Value: FALSE/TRUE
+- amount_dynamic-------# Value: FALSE/TRUE
+- trade_only_top_pairs-# Value: ALL/1-10
+- signal_server--------# Value: ANY/..
+- take_profit----------# Value: EMPTY/1-..
+- stoploss-------------# Value: EMPTY/1-..
+- trade_time-----------# Value: FROM/TO
+- trade_expiration-----# Value: AUTO/M1-H1
 
 </details>
 
