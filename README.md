@@ -152,8 +152,8 @@ Here are 2 Examples how to calculate the UTC Setting:
 - trade_time           # Value: FROM/TO
 - trade_expiration     # Value: AUTO/M1-H1
 
-| Setting  | Join | Freqtrade Support | CCXT Certified | Discount |
-| :-------------: | :--: | :---------------: | :------------: | :------: |
+| Setting | Input Value | Info                                          |
+| :-----: | :---------: | :-------------------------------------------: |
 
 </details>
 
