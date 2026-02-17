@@ -154,7 +154,7 @@ Here are 2 Examples how to calculate the UTC Setting:
 
 | Setting           | Input Value | Info                                          |
 | :---------------: | :---------: | :-------------------------------------------: |
-| min_payout        |
-| pair_multi_trades |
+| min_payout        |             |                                               |
+| pair_multi_trades |             |                                               |
 </details>
 
