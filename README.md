@@ -146,7 +146,7 @@ Here are 2 Examples how to calculate the UTC Setting:
 | mtg_level            | 0-9          | The Count of Rebuy if the trade is loss.
 | max_trades           | 0-9          | Maximal Trade count at same Time.
 | anti_mtg             | FALSE/TRUE   | Invert Trade. e.g. First Call, Second Put, Third Call ...
-| mtg_typ              | 0/1/2        | 0: next_candle_same_pair, 1: next_signal_same_pair, 2: next_signal_any_pair.
+| mtg_typ              | 0/1/2        | 0: next_candle_same_pair\n1: next_signal_same_pair\n2: next_signal_any_pair.
 | mtg_dynamic          | FALSE/TRUE   | TRUE: Calculate MTG on Payout each Pair. 
 | amount_dynamic       | FALSE/TRUE   | TRUE: Use the Amount as take Out, FALSE: User the Amount as put In.
 | trade_only_top_pairs | ALL/1-10     | Trade only Top Pairs from Telegram Ranking.
