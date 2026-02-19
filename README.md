@@ -137,7 +137,7 @@ Here are 2 Examples how to calculate the UTC Setting:
 | pair_multi_trades    | ON/OFF       | ON: Trade only one Time each Pair. OFF: Trade multi times each Pair.
 | min_win_ratio        | 0-100        | Minimal Win ratio from Signal Server.
 | mtg_coefficient      | 1.0-..       | Faktor to increase the amount on MTG's.
-| trade_amount         | 1.0-..       | Value of Trade Amount. (0 = Disable)
+| trade_amount         | 0,1.0-..     | Value of Trade Amount. (0 = Disable)
 | trade_amount_type    | $/%          | Value Type of Trade Amount. Percent or Doller.
 | trade_mode           | DEMO/REAL    | Mode to Trade on PocketOption (Demo or Real Account).
 | loglevel             | INFO-ERROR   | The Loglevel.
