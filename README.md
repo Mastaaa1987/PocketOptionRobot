@@ -34,7 +34,9 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 <details>
 <summary>Click HERE for Content.</summary>
 
-### To get the bot running properly, two prerequisites must be met. First, it need a Telegram ID and Hash.
+### To get the bot running properly, two prerequisites must be met. 
+
+### First, it need a Telegram ID and Hash.
 
 ## HowTo get ID & Hash from Telegram?
 
