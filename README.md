@@ -141,10 +141,10 @@ Here are 2 Examples how to calculate the UTC Setting:
 | trade_amount_type    | $/%          | Value Type of Trade Amount. Percent or Doller.
 | trade_mode           | DEMO/REAL    | Mode to Trade on PocketOption (Demo or Real Account).
 | loglevel             | INFO-ERROR   | The Loglevel.
-| period               | M1-M5        | The Period which the Bot look for as Signal (e.g. Only 1 Minute Signals).
+| period               | M1-M5        | The Period which the Bot look for as Signal (e.g. Only 1/2/3 min Signals).
 | pairs_type           | ALL/REAL/OTC | Wich Art of Pairs is to Trade (Stock/OTC)
 | mtg_level            | 0-9          | The Count of Rebuy if the trade is loss.
-| max_trades           | 0-9          | Maximal Trade count at same Time.
+| max_trades           | 0-9          | Maximal Trade count at same Time. (0 = No Trading!)
 | anti_mtg             | FALSE/TRUE   | Invert Trade. e.g. First Call, Second Put, Third Call ...
 | mtg_typ              | 0/1/2        | 0: next_candle_same_pair, 1: next_signal_same_pair, 2: next_signal_any_pair.
 | mtg_dynamic          | FALSE/TRUE   | TRUE: Calculate MTG on Payout each Pair. 
