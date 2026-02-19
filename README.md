@@ -23,7 +23,7 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 <details>
 <summary>Click HERE for Content.</summary>
 
-### Download MyBot here and start the Robot to get this Screen:
+### Download MyBot from Here and Start the Robot to get this Screen:
 
 ![FirstScreen](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/FirstScreen.png)
 
@@ -34,14 +34,14 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 <details>
 <summary>Click HERE for Content.</summary>
 
-### To get the bot running properly, two prerequisites must be met. First, we need a Telegram ID and hash.
+### To get the bot running properly, two prerequisites must be met. First, it need a Telegram ID and Hash.
 
 ## HowTo get ID & Hash from Telegram?
 
 <details>
 <summary>Click HERE for Content.</summary>
 
-### For the Telegram ID & Hash we need to get a Developer Account. 
+### For the Telegram ID & Hash it need to get a Developer Account. 
 
 - Visit https://my.telegram.org/auth & start Rgistration with your Phone number.
 - In follow the Registration you need to set a Name for your App. You can take what ever you want, Nobody will check that.
@@ -49,7 +49,7 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 
 </details>
 
-### And Second we need the SSID from the PocketOption platform.
+### And Second it need the SSID from the PocketOption platform.
 
 ## HowTo get SSID from PocketOption?
 
@@ -86,7 +86,7 @@ Example Real SSID:
 
 </details>
 
-### Last but not least we need the ID of the Channel We want to catch the Signal with the Bot.
+### Last but not least it need the ID of the Channel you want to catch the Signal with the Bot.
 
 (at start you can create quick & simple a Group or Channel to Send your own test Signals into it ...)
 
@@ -148,12 +148,13 @@ Here are 2 Examples how to calculate the UTC Setting:
 | anti_mtg             | FALSE/TRUE   | Invert Trade. (e.g. First Call, Second Put, Third Call ..)
 | mtg_typ              | 0/1/2        | 0: next_candle_same_pair, 1: next_signal_same_pair, 2: next_signal_any_pair.
 | mtg_dynamic          | FALSE/TRUE   | TRUE: Calculate MTG on Payout each Pair. 
-| amount_dynamic       | FALSE/TRUE   | TRUE: Use the Amount as take Out, FALSE: User the Amount as put In.
+| amount_dynamic       | FALSE/TRUE   | TRUE: Use the Amount as take Out, FALSE: Use the Amount as put In.
 | trade_only_top_pairs | ALL/1-10     | Trade only Top Pairs from Telegram Ranking.
 | signal_server        | ANY/..       | Which Channel you want to Use (<del>from Settings Tab</del>).
 | take_profit          | EMPTY/1-..   | How many Profit is to take before the bot going to sleep.
 | stoploss             | EMPTY/1-..   | How many Loss is to take before the bot going to sleep.
 | trade_time           | FROM/TO      | The Time where the Bot can take Trades.
 | trade_expiration     | AUTO/M1-H1   | Trade a specify time period. (e.g. 1 min, 2 min ...)
+
 </details>
 
