@@ -8,13 +8,13 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 <details>
 <summary>Click HERE for Content.</summary>
 
-### A Telegram Account with a Signal Group/Channel like this:
+### 1. A Telegram Account with a Signal Group/Channel like this:
 
 ![Telegram](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram.png)
 
-### A PocketOption Account to trade with.
+### 2. A PocketOption Account to trade with.
 
-### My Robot.
+### 3. My Robot.
 
 </details>
 
@@ -36,7 +36,7 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 
 ### To get the bot running properly, two prerequisites must be met. 
 
-### First, it need a Telegram ID and Hash.
+### 1. It need a Telegram ID and Hash.
 
 ## HowTo get ID & Hash from Telegram?
 
@@ -51,7 +51,7 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 
 </details>
 
-### And Second it need the SSID from the PocketOption platform.
+### 2. It need the SSID from the PocketOption platform.
 
 ## HowTo get SSID from PocketOption?
 
@@ -88,7 +88,7 @@ Example Real SSID:
 
 </details>
 
-### Last but not least it need the ID of the Channel you want to catch the Signal with the Bot.
+### 3. Last but not least it need the ID of the Channel you want to catch this Signal.
 
 (at start you can create quick & simple a Group or Channel to Send your own test Signals into it ...)
 
