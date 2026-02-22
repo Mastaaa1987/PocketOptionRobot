@@ -167,6 +167,7 @@ If you have some questions or suggestions or some thing like this, you can conta
 <details>
 <summary>Click HERE for Content.</summary>
 
+
 If you don't have (or don't want) a external Telegram Signal Server, is here a Quick & Dirty howto to setup your own one. 
 
 At first you need to download Meta Trader 4 Version from here:
@@ -197,6 +198,7 @@ The last step for now is to restart MetaTrader. Now the prerequire steps are don
 
 <details>
 <summary>Click HERE for Content.</summary>
+
 
 With the MCharts-OTC Expert you can get Live OTC Charts from PocketOption (and other Platforms) for free.
 
