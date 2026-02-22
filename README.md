@@ -160,7 +160,7 @@ Here are 2 Examples how to calculate the UTC Setting:
 
 </details>
 
-### If you have some questions or suggestions or some thing like this, you can contact me via Telegram: @mastaaa667
+If you have some questions or suggestions or some thing like this, you can contact me via Telegram: @mastaaa667
 
 # Optional addition: Setup own Signal Server.
 
