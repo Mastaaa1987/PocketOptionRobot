@@ -192,7 +192,28 @@ Now copy the Content inside the MetaTrader folder from my Repo (e.g. the MQL4 Fo
 
 ![MetaTrader4](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader4.png)
 
-The last step for now is to restart MetaTrader. Now the prerequire steps are done.
+The last step for now is to restart MetaTrader. Now the first prerequire steps are done.
+
+### Create own Telegram Channel and Telegram Bot
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+Next start a Conversation with @BotFather here for send a Message with: /start
+
+As next send /newbot & follow the industructions to recieve the Bot token.
+
+![Telegram5](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram5.png)
+
+Now click on the Bot Name (4) and send him a /start Message. Next create a new Group or Channel with Name you want.
+
+![Telegram6](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram6.png)
+
+As last step add your Bot to your Channel and give them Admin rights.
+
+![Telegram7](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram7.png)
+
+</details>
 
 ## Expert: MCharts-OTC
 
