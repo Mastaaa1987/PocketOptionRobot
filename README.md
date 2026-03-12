@@ -167,9 +167,16 @@ If you have some questions or suggestions or some thing like this, you can conta
 <details>
 <summary>Click HERE for Content.</summary>
 
-### If you don't have (or don't want) a external Telegram Signal Server, is here a Quick & Dirty howto to setup your own one. 
+### If you don't have (or don't want) a external Telegram Signal Server
 
-At first you need to download Meta Trader 4 Version from here:
+### is here a Quick & Dirty howto to setup your own one. 
+
+## First Step: Install Metatrader 4 and change the Settings of it.
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+### At first you need to download Meta Trader 4 Version from here:
 
 [www.fxcm.com](https://www.fxcm.com/de/plattformen/metatrader-4/herunterladen/)
 
@@ -192,6 +199,8 @@ Now copy the Content inside the MetaTrader folder from my Repo (e.g. the MQL4 Fo
 ![MetaTrader4](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader4.png)
 
 The last step for now is to restart MetaTrader. Now the first prerequire steps are done.
+
+</details>
 
 ## Prerequire Steps: Create own Telegram Channel and Bot
 
