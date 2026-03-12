@@ -176,7 +176,9 @@ If you have some questions or suggestions or some thing like this, you can conta
 <details>
 <summary>Click HERE for Content.</summary>
 
-### At first you need to download Meta Trader 4 Version from here:
+## Get Metatrader 4
+
+At first you need to download Meta Trader 4 Version from here:
 
 [www.fxcm.com](https://www.fxcm.com/de/plattformen/metatrader-4/herunterladen/)
 
@@ -218,6 +220,8 @@ As last step add your Bot to your Channel and give them Admin rights.
 
 ![Telegram7](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram7.png)
 
+### Now the prerequire Step's are done ...
+
 </details>
 
 ## Expert: MCharts-OTC (Mastaaa's OTC Charts)
@@ -246,17 +250,17 @@ When everything working right it gives 2 Ways to open OTC Charts. You can click 
 
 ### In Metatrader it gives 3 different Ways to catch the Signal from a Indicator on a Chart.
 
-### Get the buffer of an Indicator on Chart.
+### 1. Get the buffer of an Indicator on Chart.
 
 This method is working allways, but be warned: You can work with every Indicator but you can't make any setup for the Indicator! It working only with default settings of a Indicator ...
 
-### Get a Object of an Indicator on Chart.
+### 2. Get a Object of an Indicator on Chart.
 
 This working only with Indicators which draw Objects on a Chart like Arrows. And this will not really do in the most of it. With this method you can change the Settings of the Indicator!
 
-### Get the Alert of any Indicator in Metatrader.
+### 3. Get the Alert of any Indicator in Metatrader.
 
-Here the same if condition as the Object method. It working only if the Indicator will send a Alert Message in Metatrader. 
+Here the same if condition as the Object method. It working only if the Indicator will send a Alert Message in Metatrader.
 
 </details>
 
