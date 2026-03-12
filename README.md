@@ -193,18 +193,22 @@ Now copy the Content inside the MetaTrader folder from my Repo (e.g. the MQL4 Fo
 
 The last step for now is to restart MetaTrader. Now the first prerequire steps are done.
 
-## Prerequire: Create own Telegram Channel and Telegram Bot
+## Prerequire Steps: Create own Telegram Channel and Bot
 
 <details>
 <summary>Click HERE for Content.</summary>
 
-### Next start a Conversation with @BotFather here for send a Message with: /start
+### At First we create a Telegram Bot.
 
-As next send /newbot & follow the industructions to recieve the Bot token.
+Here for start Conversation with @BotFather and send a Message with: /start
+
+Next send /newbot & follow the industructions to recieve the Bot token.
 
 ![Telegram5](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram5.png)
 
-Now click on the Bot Name (4) and send him a /start Message. Next create a new Group or Channel with Name you want.
+Now click on the Bot Name (4) and send him a /start Message. 
+
+### Next create a new Group or Channel with Name you want.
 
 ![Telegram6](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram6.png)
 
@@ -230,6 +234,21 @@ Then in the Navigator menu under Experts search after MCharts-OTC-v1.9 double cl
 When everything working right it gives 2 Ways to open OTC Charts. You can click on File -> Open offline Charts, or simple click on Open All OTC Charts button inside the Chart.
 
 ![MetaTrader6](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader6.png)
+
+</details>
+
+## Indicator: MUT-Connector (Mastaaa's Ultimate Telegram - Connector)
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+### In Metatrader it gives 3 different Ways to catch the Signal from a Indicator on a Chart.
+
+- 1. Get the buffer of an Indicator on Chart.
+
+- 2. Get a Object of an Indicator on Chart.
+
+- 3. Get the Alert of any Indicator in Metatrader.
 
 </details>
 
