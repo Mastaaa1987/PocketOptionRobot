@@ -160,7 +160,7 @@ Here are 2 Examples how to calculate the UTC Setting:
 
 </details>
 
-If you have some questions or suggestions or some thing like this, you can contact me via Telegram: @mastaaa667
+### If you have some questions or suggestions or some thing like this, you can contact me via Telegram: @mastaaa667
 
 # Optional addition: Setup own Signal Server.
 
@@ -168,48 +168,48 @@ If you have some questions or suggestions or some thing like this, you can conta
 <summary>Click HERE for Content.</summary>
 
 
-If you don't have (or don't want) a external Telegram Signal Server, is here a Quick & Dirty howto to setup your own one. 
+### If you don't have (or don't want) a external Telegram Signal Server, is here a Quick & Dirty howto to setup your own one. 
 
-At first you need to download Meta Trader 4 Version from here:
+### At first you need to download Meta Trader 4 Version from here:
 
 [www.fxcm.com](https://www.fxcm.com/de/plattformen/metatrader-4/herunterladen/)
 
-After the installation you need only to register a demo Account until this Screen:
+### After the installation you need only to register a demo Account until this Screen:
 
 ![MetaTrader1](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader1.png)
 
-Next open the Settings with Ctrl+O and switch to the Expert Tab. There hit the checkbox Allow to import DLL's & Allow trusted WebRequest for following URL's.
+### Next open the Settings with Ctrl+O and switch to the Expert Tab. There hit the checkbox Allow to import DLL's & Allow trusted WebRequest for following URL's.
 
-As URL you need to add: https://api.telegram.org
+### As URL you need to add: https://api.telegram.org
 
 ![MetaTrader2](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader2.png)
 
-As next step click on File (on Top left) and then on open Filefolder (i don't know how exactly in English, sorry), to open the MetaTrader File Folder:
+### As next step click on File (on Top left) and then on open Filefolder (i don't know how exactly in English, sorry), to open the MetaTrader File Folder:
 
 ![MetaTrader3](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader3.png)
 
-Now copy the Content inside the MetaTrader folder from my Repo (e.g. the MQL4 Folder) into this Folder.
+### Now copy the Content inside the MetaTrader folder from my Repo (e.g. the MQL4 Folder) into this Folder.
 
 ![MetaTrader4](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader4.png)
 
-The last step for now is to restart MetaTrader. Now the first prerequire steps are done.
+### The last step for now is to restart MetaTrader. Now the first prerequire steps are done.
 
-### Create own Telegram Channel and Telegram Bot
+## Prerequire: Create own Telegram Channel and Telegram Bot
 
 <details>
 <summary>Click HERE for Content.</summary>
 
-Next start a Conversation with @BotFather here for send a Message with: /start
+### Next start a Conversation with @BotFather here for send a Message with: /start
 
-As next send /newbot & follow the industructions to recieve the Bot token.
+### As next send /newbot & follow the industructions to recieve the Bot token.
 
 ![Telegram5](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram5.png)
 
-Now click on the Bot Name (4) and send him a /start Message. Next create a new Group or Channel with Name you want.
+### Now click on the Bot Name (4) and send him a /start Message. Next create a new Group or Channel with Name you want.
 
 ![Telegram6](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram6.png)
 
-As last step add your Bot to your Channel and give them Admin rights.
+### As last step add your Bot to your Channel and give them Admin rights.
 
 ![Telegram7](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/Telegram7.png)
 
@@ -220,16 +220,15 @@ As last step add your Bot to your Channel and give them Admin rights.
 <details>
 <summary>Click HERE for Content.</summary>
 
+### With the MCharts-OTC Expert you can get Live OTC Charts from PocketOption (and other Platforms) for free.
 
-With the MCharts-OTC Expert you can get Live OTC Charts from PocketOption (and other Platforms) for free.
+### Here for you need only to open One other Chart from the List (Top left), with a right click on any Symbol and then in the Submenu click on New Chartwindow.
 
-Here for you need only to open One other Chart from the List (Top left), with a right click on any Symbol and then in the Submenu click on New Chartwindow.
-
-Then in the Navigator menu under Experts search after MCharts-OTC-v1.9 double click on it to add them on the Chart.
+### Then in the Navigator menu under Experts search after MCharts-OTC-v1.9 double click on it to add them on the Chart.
 
 ![MetaTrader5](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader5.png)
 
-When everything working right it gives 2 Ways to open OTC Charts. You can click on File -> Open offline Charts, or simple click on Open All OTC Charts button inside the Chart.
+### When everything working right it gives 2 Ways to open OTC Charts. You can click on File -> Open offline Charts, or simple click on Open All OTC Charts button inside the Chart.
 
 ![MetaTrader6](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MetaTrader6.png)
 
