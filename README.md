@@ -171,7 +171,7 @@ If you have some questions or suggestions or some thing like this, you can conta
 
 ### is here a Quick & Dirty howto to setup your own one. 
 
-## First Step: Install Metatrader 4 and change the Settings of it.
+## Prerequire Steps:
 
 <details>
 <summary>Click HERE for Content.</summary>
@@ -200,16 +200,9 @@ Now copy the Content inside the MetaTrader folder from my Repo (e.g. the MQL4 Fo
 
 The last step for now is to restart MetaTrader. Now the first prerequire steps are done.
 
-</details>
+### Create own Telegram Channel and Bot
 
-## Prerequire Steps: Create own Telegram Channel and Bot
-
-<details>
-<summary>Click HERE for Content.</summary>
-
-### At First we create a Telegram Bot.
-
-Here for start Conversation with @BotFather and send a Message with: /start
+At First we create a Telegram Bot. Here for start Conversation with @BotFather and send a Message with: /start
 
 Next send /newbot & follow the industructions to recieve the Bot token.
 
@@ -253,15 +246,15 @@ When everything working right it gives 2 Ways to open OTC Charts. You can click 
 
 ### In Metatrader it gives 3 different Ways to catch the Signal from a Indicator on a Chart.
 
-- Get the buffer of an Indicator on Chart.
+### Get the buffer of an Indicator on Chart.
 
 This method is working allways, but be warned: You can work with every Indicator but you can't make any setup for the Indicator! It working only with default settings of a Indicator ...
 
-- Get a Object of an Indicator on Chart.
+### Get a Object of an Indicator on Chart.
 
 This working only with Indicators which draw Objects on a Chart like Arrows. And this will not really do in the most of it. With this method you can change the Settings of the Indicator!
 
-- Get the Alert of any Indicator in Metatrader.
+### Get the Alert of any Indicator in Metatrader.
 
 Here the same if condition as the Object method. It working only if the Indicator will send a Alert Message in Metatrader. 
 
