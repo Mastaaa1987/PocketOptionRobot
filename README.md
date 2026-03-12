@@ -244,11 +244,17 @@ When everything working right it gives 2 Ways to open OTC Charts. You can click 
 
 ### In Metatrader it gives 3 different Ways to catch the Signal from a Indicator on a Chart.
 
-- 1. Get the buffer of an Indicator on Chart.
+- Get the buffer of an Indicator on Chart.
 
-- 2. Get a Object of an Indicator on Chart.
+This method is working allways, but be warned: You can work with every Indicator but you can't make any setup for the Indicator! It working only with default settings of a Indicator ...
 
-- 3. Get the Alert of any Indicator in Metatrader.
+- Get a Object of an Indicator on Chart.
+
+This working only with Indicators which draw Objects on a Chart like Arrows. And this will not really do in the most of it. With this method you can change the Settings of the Indicator!
+
+- Get the Alert of any Indicator in Metatrader.
+
+Here the same if condition as the Object method. It working only if the Indicator will send a Alert Message in Metatrader. 
 
 </details>
 
