@@ -285,6 +285,27 @@ When you go with the Mouse over a Candle in the Datawindow you see the Value of 
 
 ![MUT2](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT2.png)
 
+The Buffer Numbers are from Top to Bottom 0,1,2,3 ... In this case are the Call/Buy Buffer the one with Number 0.
+
+![MUT3](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT3.png)
+
+Here the Same Indicator but this Time a Put/Sell Candle to see. In this case are the Put/Sell Buffer the one with Number 1.
+
+The next Picture Show's the right Buffer Mode Settings:
+
+![MUT4](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT4.png)
+
+In the End you can check if is all right when you add simple the Indicator & the MUT-Connector on the Chart and look after the Call/Put Buffer form the Connector & the Indicator. If have both a Value in the right Buffer everything working fine ...
+
+![MUT5](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT5.png)
+
+</details>
+
+## Object Mode
+
+<details>
+<summary>Click HERE for Content.</summary>
+
 
 
 </details>
