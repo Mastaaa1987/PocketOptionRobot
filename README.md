@@ -258,13 +258,38 @@ This method is working allways, but be warned: You can work with every Indicator
 
 This working only with Indicators which draw Objects on a Chart like Arrows. And this will not really do in the most of it. With this method you can change the Settings of the Indicator!
 
-### 3. Get the Alert of any Indicator in Metatrader.
+### 3. Get the Alert of an Indicator on Chart.
 
 Here the same if condition as the Object method. It working only if the Indicator will send a Alert Message in Metatrader.
 
+### Important is you need to add the MUT-Connector one time on any Chart you work with
+
+### Here are the Settings which in all 3 Modes available:
+
+![MUT1](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT1.png)
+
+## Buffer Mode
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+### For the Buffer Mode you not need to add the Indicator on the Chart!
+
+You only need the Name of Indicator (here for i add a Test Indicator to test), in this case the Name of Indicator is: MUT-Connector-v1.0 ...
+
+And you need the number of (Buy & Sell) Buffer. Next i will explane how to get the right number of Indicator Buffer.
+
+To see all Buffers of an Indicator you need first to add it on a Chart. Then press Ctrl + D to get the Datawindow.
+
+When you go with the Mouse over a Candle in the Datawindow you see the Value of any Buffer of the Indicator ...
+
+![MUT2](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT2.png)
+
+
+
 </details>
 
-### Next comming soon ...
+</details>
 
 </details>
 
