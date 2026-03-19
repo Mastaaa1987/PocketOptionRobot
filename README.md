@@ -306,7 +306,31 @@ In the End you can check if is all right when you add simple the Indicator & the
 <details>
 <summary>Click HERE for Content.</summary>
 
+### For the Object Mode you need to add the Indicator on the Chart! 
 
+### (And not any Indicator draw as example Arrows as Objects itself! You need to check it first ...)
+
+Here for you add the Indicator on a Chart and then make a right click on Chart & choise Objectives or type simple: Ctrl + B
+
+Now in the next Window you can see how many Objects are really on the Chart (if the list is empty the Indicator doesn't draw Objects!)
+
+You have 2 options to catch a Object with the MUT-Connector. 1: By Object Name. or 2: By Object Color.
+
+Both Infos are to see in the Object setting Window (when you double click on a Object in a Row ...)
+
+![MUT6](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT6.png)
+
+In this Example have all Object the same Name, so we need to work with the different Colors of the Arrows. 
+
+E.g. Red (for Put/Sell) & Lime Green (for Call/Buy). 
+
+![MUT7](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT7.png)
+
+If you are set the right Colors to catch you can easy open the Datawindow (with Ctrl+D) and then go with the Mouse over a Candle with a Object.
+
+If anything is working correctly the Call or Put Buffer (Buffer 0 and 1) of the MUT-Connector should be shows "1.0". Then you are know all is working fine.
+
+![MUT8](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT8.png)
 
 </details>
 
