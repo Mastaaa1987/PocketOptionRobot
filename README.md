@@ -273,9 +273,9 @@ Here the same if condition as the Object method. It working only if the Indicato
 <details>
 <summary>Click HERE for Content.</summary>
 
-### For the Buffer Mode you not need to add the Indicator on the Chart!
+### For the Buffer Mode you NOT need to add the Indicator on the Chart!
 
-You only need the Name of Indicator (here for i add a Test Indicator to test), in this case the Name of Indicator is: MUT-Connector-v1.0 ...
+You only need the Name of Indicator, i added a Test Indicator with Name: Donchain_Hill-v1.0
 
 And you need the number of (Buy & Sell) Buffer. Next i will explane how to get the right number of Indicator Buffer.
 
@@ -285,19 +285,27 @@ When you go with the Mouse over a Candle in the Datawindow you see the Value of 
 
 ![MUT2](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT2.png)
 
-The Buffer Numbers are from Top to Bottom 0,1,2,3 ... In this case are the Call/Buy Buffer the one with Number 0.
+The Buffer Numbers are from Top to Bottom 0,1,2,3 ... The Call/Buy Buffer have the Number: 0
 
 ![MUT3](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT3.png)
 
-Here the Same Indicator but this Time a Put/Sell Candle to see. In this case are the Put/Sell Buffer the one with Number 1.
+Here the Same Indicator but this Time a Put/Sell Candle to see. With Buffer Number: 1
 
 The next Picture Show's the right Buffer Mode Settings:
 
 ![MUT4](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT4.png)
 
-In the End you can check if is all right when you add simple the Indicator & the MUT-Connector on the Chart and look after the Call/Put Buffer form the Connector & the Indicator. If have both a Value in the right Buffer everything working fine ...
+With the Buffer Shift setting you can shift the Candle which is used for the Signal from 0 to a later one.
+
+(Info: Candle 0 is this Candle what is currently Open but not Closed! Candle 1 is behind and the first Closed one.)
 
 ![MUT5](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT5.png)
+
+In the End you can check if is all right when you add simple the Indicator & the MUT-Connector on the Chart and 
+
+look after the Call/Put Buffer form the Connector & the Indicator. 
+
+If have both a Value in the right Buffer everything working fine ...
 
 </details>
 
@@ -308,13 +316,19 @@ In the End you can check if is all right when you add simple the Indicator & the
 
 ### For the Object Mode you need to add the Indicator on the Chart! 
 
-### (And not any Indicator draw as example Arrows as Objects itself! You need to check it first ...)
+### (Not any Indicator draw Arrows as Objects! You need to check this first ...)
 
-Here for you add the Indicator on a Chart and then make a right click on Chart & choise Objectives or type simple: Ctrl + B
+First add the Indicator on a Chart and make a right click on it and choise Objectives or Type Simple: Ctrl + B
 
-Now in the next Window you can see how many Objects are really on the Chart (if the list is empty the Indicator doesn't draw Objects!)
+Now in the next Window you can see how many Objects are really on the Chart.
 
-You have 2 options to catch a Object with the MUT-Connector. 1: By Object Name. or 2: By Object Color.
+(if the list is empty the Indicator doesn't draw Objects!)
+
+You have 2 Options to catch a Object with the MUT-Connector. 
+
+1. By Object Name. 
+
+2. By Object Color.
 
 Both Infos are to see in the Object setting Window (when you double click on a Object in a Row ...)
 
@@ -326,11 +340,15 @@ E.g. Red (for Put/Sell) & Lime Green (for Call/Buy).
 
 ![MUT7](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT7.png)
 
-If you are set the right Colors to catch you can easy open the Datawindow (with Ctrl+D) and then go with the Mouse over a Candle with a Object.
+If you are set the right Colors to catch you can easy open the Datawindow (with Ctrl+D) 
 
-If anything is working correctly the Call or Put Buffer (Buffer 0 and 1) of the MUT-Connector should be shows "1.0". Then you are know all is working fine.
+and then go with the Mouse over a Candle with a Object.
+
+If anything is working correctly the Call or Put Buffer (Buffer 0 and 1) of the MUT-Connector should be shows "1.0". 
 
 ![MUT8](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT8.png)
+
+Then all is Working fine.
 
 </details>
 
