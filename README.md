@@ -351,7 +351,7 @@ If anything is working correctly the Call or Put Buffer (Buffer 0 and 1) of the 
 <details>
 <summary>Click HERE for Content.</summary>
 
-### For the Alarm Mode you need to add the MUT-Connector on every Chart you want to catch a Signal!
+### You need to add the MUT-Connector on every Chart you want to catch a Signal!
 
 
 
