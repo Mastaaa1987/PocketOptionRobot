@@ -273,7 +273,9 @@ Here the same if condition as the Object method. It working only if the Indicato
 <details>
 <summary>Click HERE for Content.</summary>
 
-### For the Buffer Mode you NOT need to add the Indicator on the Chart!
+### For the Buffer Mode you NOT need to add the Indicator on the Chart! 
+
+### The MUT-Connector needs to be add one Time on every Chart.
 
 You only need the Name of Indicator, i added a Test Indicator with Name: Donchain_Hill-v1.0
 
@@ -314,7 +316,7 @@ If have both a Value in the right Buffer everything working fine ...
 <details>
 <summary>Click HERE for Content.</summary>
 
-### For the Object Mode you need to add the Indicator on the Chart! 
+### For the Object Mode you need to add the Indicator & MUT-Connector on the Chart!
 
 ### (Not any Indicator draw Arrows as Objects! You need to check this first ...)
 
@@ -324,11 +326,7 @@ Now in the next Window you can see how many Objects are really on the Chart.
 
 (if the list is empty the Indicator doesn't draw Objects!)
 
-You have 2 Options to catch a Object with the MUT-Connector. 
-
-1. By Object Name. 
-
-2. By Object Color.
+You have 2 Options to catch a Object with the MUT-Connector. 1. By Object Name. 2. By Object Color.
 
 Both Infos are to see in the Object setting Window (when you double click on a Object in a Row ...)
 
@@ -340,15 +338,22 @@ E.g. Red (for Put/Sell) & Lime Green (for Call/Buy).
 
 ![MUT7](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT7.png)
 
-If you are set the right Colors to catch you can easy open the Datawindow (with Ctrl+D) 
+If you are set the right Colors to catch you can easy open the Datawindow (with Ctrl+D) and then go with the Mouse over a Candle with a Object.
 
-and then go with the Mouse over a Candle with a Object.
-
-If anything is working correctly the Call or Put Buffer (Buffer 0 and 1) of the MUT-Connector should be shows "1.0". 
+If anything is working correctly the Call or Put Buffer (Buffer 0 and 1) of the MUT-Connector should be shows "1.0". Then all is Working fine.
 
 ![MUT8](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MUT8.png)
 
-Then all is Working fine.
+</details>
+
+## Alarm Mode
+
+<details>
+<summary>Click HERE for Content.</summary>
+
+### For the Alarm Mode you need to add the MUT-Connector on every Chart you want to catch a Signal!
+
+
 
 </details>
 
