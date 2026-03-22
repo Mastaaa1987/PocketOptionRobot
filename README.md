@@ -3,6 +3,8 @@ MyBot is a full in Python written Standalone Windows executable Robot. It is des
 
 ![MyBot](https://raw.githubusercontent.com/Mastaaa1987/pocketoptionrobot/refs/heads/main/docs/MyBot.png)
 
+### If you have some questions or suggestions or some thing like this, you can contact me via Telegram: @mastaaa667
+
 ## What you Need?
 
 <details>
@@ -159,8 +161,6 @@ Here are 2 Examples how to calculate the UTC Setting:
 | trade_expiration     | AUTO/M1-H1   | Trade a specify time period. (e.g. 1 min, 2 min ...)
 
 </details>
-
-If you have some questions or suggestions or some thing like this, you can contact me via Telegram: @mastaaa667
 
 # Optional addition: Setup own Signal Server.
 
